@@ -1,0 +1,23 @@
+@import url('reset.css');
+@import url('global.css');
+
+body {
+    background-color: #000000;
+}
+
+section {
+    height: auto;
+}
+
+p {
+    color: #ffffff;
+}
+
+#module-01{
+    height: 605px;
+    background-image: url('../images/banner.png');
+}
+
+.elemento-02 {
+    color: #1472b7;
+}
