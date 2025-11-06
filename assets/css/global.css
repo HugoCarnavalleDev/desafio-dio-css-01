@@ -1,3 +1,6 @@
-* {
+@import url("../fonts/Raleway/Raleway-Black.ttf");
+
+*, h1 {
+    font-family: raleway-black, sans-serif;
     text-align: center;  
 }
